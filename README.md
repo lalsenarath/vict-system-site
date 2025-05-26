@@ -1,5 +1,3 @@
----
-
 ## Who Should License VIT?
 
 - **Tax Authorities** seeking to digitize and secure VAT collection.
